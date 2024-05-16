@@ -1,0 +1,5 @@
+Pillow==9.5.0
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+facetorch==0.2.4
+omegaconf==2.3.0
